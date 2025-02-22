@@ -3,4 +3,4 @@ Desafio: Modelando o iPhone com UML: Funções de Músicas, Chamadas e Internet 
 
 
 Diagrama UML de Classes do desafio proposto:
-<img src="DiagramaUML.jpeg" alt="Diagrama de Classes">
+<img src="DiagramaUML.jpeg" alt="Diagrama de Classes" align="center">
